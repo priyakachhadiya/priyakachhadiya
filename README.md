@@ -3,14 +3,14 @@
 <h4 align="center">I'm a Web Developer Engineer passionate about building efficient, scalable, and beautiful web applications. With a solid foundation in Python, Java, C, CSS, HTML, and JavaScript, I enjoy turning innovative ideas into impactful digital solutions.loper from India</h4>
 
 - 🌱 I’m currently learning 
-  🧑‍🎓 Learning: Cloud computing, TypeScript, and microservices. 
-  🌐 Projects : Developing full-stack web applications and contributing to open-source.
+  - 🧑‍🎓 Learning: Cloud computing, TypeScript, and microservices. 
+  - 🌐 Projects : Developing full-stack web applications and contributing to open-source.
 
 - 📫 How to reach me priyakachhadiya2304@gmail.com
 
 - ⚡ fun facts 
-  🌍 I love exploring new technologies and trends in the web development world. 
-  🎨 When I’m not coding, you’ll find me designing, sketching, or playing video games.**
+  - 🌍 I love exploring new technologies and trends in the web development world. 
+  - 🎨 When I’m not coding, you’ll find me designing, sketching, or playing video games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
