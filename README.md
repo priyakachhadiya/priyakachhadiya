@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Priya kachhadiya</h1>
-<h3 align="center">I'm a Web Developer Engineer passionate about building efficient, scalable, and beautiful web applications. With a solid foundation in Python, Java, C, CSS, HTML, and JavaScript, I enjoy turning innovative ideas into impactful digital solutions.loper from India</h3>
+<h4 align="center">I'm a Web Developer Engineer passionate about building efficient, scalable, and beautiful web applications. With a solid foundation in Python, Java, C, CSS, HTML, and JavaScript, I enjoy turning innovative ideas into impactful digital solutions.loper from India</h4>
 
 - 🌱 I’m currently learning - 🧑‍🎓 Learning: Cloud computing, TypeScript, and microservices. - 🌐 Projects : Developing full-stack web applications and contributing to open-source.
 
